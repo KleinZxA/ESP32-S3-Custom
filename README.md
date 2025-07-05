@@ -12,3 +12,6 @@ A Custom ESP32-S3 Dev Board
 ## Back 2D & 3D View
 <img width="1460" height="907" alt="Image" src="https://github.com/KleinZxA/ESP32-S3-Custom/blob/main/src/Back_Board_View_3D.png" />
 <img width="1460" height="907" alt="Image" src="https://github.com/KleinZxA/ESP32-S3-Custom/blob/main/src/Back2D.png" />
+
+# Dimensions
+<img width="1460" height="907" alt="Image" src="https://github.com/KleinZxA/ESP32-S3-Custom/blob/main/src/PCB_View_With_Dimensions.png" />
